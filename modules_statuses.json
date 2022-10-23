@@ -1,3 +1,5 @@
 {
-    "Chat": true
+    "Chat": true,
+    "BackOffice": true,
+    "FrontOffice": true
 }

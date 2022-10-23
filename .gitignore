@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/Front-Office/front-office/node_modules
 .env
 .env.backup
 .composer.json

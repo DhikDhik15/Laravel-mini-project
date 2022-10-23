@@ -7,21 +7,21 @@ namespace Composer\Autoload;
 class ComposerStaticInit8684ef801901850e77bd407fe138cc7d
 {
     public static $prefixLengthsPsr4 = array (
-        'M' => 
+        'M' =>
         array (
             'Modules\\Chat\\' => 13,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Modules\\Chat\\' => 
+        'Modules\\Chat\\' =>
         array (
-            0 => __DIR__ . '/../..' . '/',
+            0 => __DIR__ . '/../..',
         ),
     );
 
     public static $classMap = array (
-        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Composer\\InstalledVersions' => __DIR__ . '/..',
     );
 
     public static function getInitializer(ClassLoader $loader)
